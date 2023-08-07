@@ -6,9 +6,6 @@ module.exports = {
 
     mode: 'development',
     module: {
-        output: {
-            clean: true,
-        },
         rules: [
             {
                 test: /\.css$/,
